@@ -1,0 +1,31 @@
+#titleBox{
+    text-align: center
+}
+
+#formBox{
+    text-align: center;
+}
+
+#imageBox{
+    display: inline-block;
+    width: 33%;
+    height: 15em;
+    text-align: center;
+    margin-left: 33%;
+    margin-bottom: 1%;
+    border: solid thin black;
+    padding-top: 5%;
+    box-sizing: border-box;
+}
+
+#reset{
+    margin-left: 44%;
+    display: inline-block;
+    text-align: center;
+    width: 10%;
+    height: 2em;
+}
+
+#hintWords{
+    color: white;
+}
